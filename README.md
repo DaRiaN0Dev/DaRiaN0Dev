@@ -1,8 +1,8 @@
 # 🖥 Mohammad Ramezani
 
 🌍 Currently, I am in Qazvin, Iran. \
-🚀 Currently, I am working on my Shop-Center open source project. \
-🧠 Currently, I am learning software architecture.
+🚀 Currently, I am working on my private project. \
+🧠 Currently, I am learning frontend.
 
 ## 🌐 Socials
 
