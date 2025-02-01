@@ -1,4 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72828&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Mohammad+Ramazani;Passionate+about+Front-End+Development+" alt="Typing SVG" /></a>
+
+<h1 align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72828&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Mohammad+Ramazani;Passionate+about+Front-End+Developmer+" alt="Typing SVG" /></a>
+<h1/>
+
 
 
 # 🖥 Mohammad Ramezani
