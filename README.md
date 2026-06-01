@@ -22,4 +22,4 @@ Next.js • React • TypeScript • Tailwind CSS • TanStack Query • Zustand
 
 ## Contact
 
-LinkedIn • Portfolio • Email
+• [LinkedIn](https://linkedin.com/in/DaRiaN0Dev) • [Portfolio](https://darian0dev.ir) • [Email](mailto:mohammadramezani.work@gmail.com)
